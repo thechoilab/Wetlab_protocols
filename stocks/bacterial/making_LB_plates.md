@@ -16,6 +16,7 @@
 Each 100 mm diameter petri dish can hold about 10-15 mL of LB agar. So to pour a stack of 20 petri dishes, you will need approximately 300 mL of LB agar solution. To pour about 4-5 sleeves, make up 1500 mL of LB agar solution.
 
 1. Prepare an erlenmeyer flask with the following:
+
 | Ingredient | Amt per Liter | Amt for ~1 sleeve (20 plates) | Amt for ~4-5 sleeves (80-100 plates) |
 | ---- | ---- | ---------------------------- | ----------------------------------- |
 | **LB powder\* (Lennox)** | 21.6 g | 12.96 g | 32.4 g |
