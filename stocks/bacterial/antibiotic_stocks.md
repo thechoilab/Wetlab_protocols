@@ -1,5 +1,5 @@
-###Protocol for making up antibiotic stocks
----
+# Protocol for making up antibiotic stocks
+
 #### Recommended concentrations:
 
 | Antibiotic | Solvent | Stock Concentration | Working Concentration | Storage temp. of powder|

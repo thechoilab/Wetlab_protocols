@@ -1,5 +1,5 @@
-###Protocol for making LB plates
----
+# Protocol for making LB plates
+
 #### <u>Materials needed</u>:
 | Item         | Company | Cat. No. |
 | ------------ | ------- | -------- |
