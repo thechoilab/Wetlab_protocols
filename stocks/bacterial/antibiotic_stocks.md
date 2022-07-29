@@ -5,10 +5,10 @@
 | Antibiotic | Solvent | Stock Concentration | Working Concentration | Storage temp. of powder|
 | ---------- | ------- | ------------------- | --------------------- | ---------|
 | Ampicillin | water | 100 mg/mL | 100 µg/mL | 4&deg;C |
-| **Carbenicillin**\* | water | 100 mg/mL | 100 µg/mL | -20&deg;C |
+| **Carbenicillin**\* | water | 50 mg/mL | 50 µg/mL | -20&deg;C |
 | **Chloramphenicol**  | EtOH | 25 mg/mL | 25 µg/mL | room temp. |
 | Hygromycin B | water | 200 mg/mL | 200 µg/mL | 4&deg;C |
-| **Kanamycin** | water | 50 mg/mL | 50 µg/mL | 4&deg;C |
+| **Kanamycin** | water | 50 mg/mL | 50 µg/mL | room temp. |
 | **Spectinomycin** | water | 50 mg/mL | 50 µg/mL | 4&deg;C |
 | Tetracycline | water | 10 mg/mL | 10 µg/mL | -20&deg;C |
 

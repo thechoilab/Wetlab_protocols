@@ -19,26 +19,28 @@ Each 100 mm diameter petri dish can hold about 10-15 mL of LB agar. So to pour a
 
 | Ingredient | Amt per Liter | Amt for ~1 sleeve (20 plates) | Amt for ~4-5 sleeves (80-100 plates) |
 | ---- | ---- | ---------------------------- | ----------------------------------- |
-| **LB powder\* (Lennox)** | 21.6 g | 12.96 g | 32.4 g |
-| **Bacto agar powder** | 17 g | 10.2 g | 25.5 g |
+| **LB powder (Lennox)** | 21.6 g\* | 6.48 g | 32.4 g |
+| **Bacto agar powder** | 17 g | 5.1 g | 25.5 g |
 | **Water** | 1000 mL | 300 mL | 1500 mL |
+
 *\*This amount can vary depending on the manufacturer.*
 
-
-2. Add a magnetic stir bar (to stir later while cooling after autoclaving).
+2. Add a magnetic stir bar (to stir later while cooling after autoclaving). Stir until LB powder is dissolved. Agar powder will not dissolve until solution is autoclaved.
 
 3. Cover the mouth of the flask with foil and secure with autoclave tape.
 
-4. Autoclave flask on **'liquid' cycle for 15-30 min**.
+4. Autoclave flask on **'liquid' cycle for 15-30 min** (use the left autoclave, for some reason the autoclave on the right does not dissolve the agar completely...)
 
 5. After autoclaving, place flask on a stir plate and **stir <u>slowly</u>** while solution cools. If you stir too fast, it will introduce small bubbles that will appear on the plate when it is warmed up again and make it hard to distinguish colonies.
 
-6. When solution is sufficiently cooled (when flask is warm, not hot, to the touch, approximately 60&deg;C), add antibiotic to desired 1X concentration and stir slowly for an additional 1-2min.
+	* *To speed up cooling, you can place the flask in a container (ie. plastic autoclave tray) filled with cold tap water and place this on the stir plate. But make sure you monitor the temperature frequently to prevent the solution from cooling too much and solidifying.*
 
-8. Pour just enough solution to cover the bottom of the dish (~15 mL/plate). Alternatively, you can use a sterile serological pipette but pouring is faster.
-	- Mark sides of petri dishes with a colored marker to indicate antibiotic added
-	- Stack plates after pouring to prevent condensation from forming on lids
-	
+6. When solution is sufficiently cooled (when flask is warm, not hot, to the touch, approximately 60&deg;C. one way to test this is to see if you can keep your hand on the flask for an extended period of time), add antibiotic to desired 1X concentration and stir slowly for an additional 1-2min.
+
+7. Pour just enough solution to cover the bottom of the dish (~15 mL/plate). Alternatively, you can use a sterile serological pipette but pouring is faster.
+  - Mark sides of petri dishes with a colored marker to indicate antibiotic added
+  - Stack plates after pouring to prevent condensation from forming on lids
+
 8. Let plates cool on bench for several hours up to overnight. Leaving them overnight helps to let most of the condensation evaporate.
 
 9. Store plates lid-side down in plastic sleeve bag, secure with tape labeled with antibiotic and store at 4&deg;C.
@@ -48,5 +50,4 @@ Each 100 mm diameter petri dish can hold about 10-15 mL of LB agar. So to pour a
 
 
 For more detailed protocol, see [Addgene version](https://www.addgene.org/protocols/pouring-lb-agar-plates/).
-
 
