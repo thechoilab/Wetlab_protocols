@@ -22,6 +22,7 @@ The main antibiotics we use in lab are **in bold**.
 1. Weigh out the desired amount of antibiotic powder and dissolve it in the appropriate volume of solvent (most antibiotics will dissolve quickly).
 	* Usually, we make up about 10 mL of stock solution
 2. Sterilize solution by filtering through a **0.2 µm syringe filter** (do in the tissue culture hood to maintain sterility). Skip this step if antibiotic is dissolved in ethanol (ie. Chloramphenicol).
+	* Important: Make sure to first remove the syringe plunger BEFORE attaching the filter to avoid damaging the filter by passing air through it.
 3. Aliquot into sterile 1.5 mL eppendorf tubes (inside tissue culture hood).
 4. Label tubes with:
 	* Name of antibiotic (can use abbreviation)
@@ -40,5 +41,3 @@ For more information, see [Plasmids 101: Antibiotic Resistance Genes](https://bl
 | Chloramphenicol  | 5 g | MP Biomedicals (VWR) | 0219032105 (IC19032105) | $32.35 |
 | Kanamycin (sulfate) | 5 g | Teknova (VWR) | K2105 (100218-998) | $28.06 |
 | Spectinomycin (dihydrochloride pentahydrate) | 1 g | MP Biomedical (VWR) | 0215206701 (IC15206701) | $28.51 |
-
-
